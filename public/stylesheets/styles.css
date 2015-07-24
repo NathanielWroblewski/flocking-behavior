@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  width:  100%;
+  margin:  0;
+  padding: 0;
+  background-color: #fff;
+  color: #666;
+  font-family: 'Libre Baskerville' serif;
+}
+
+.container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.title {
+  font-family: 'Montserrat' sans-serif;
+  margin-bottom: 0;
+}
+
+.subtitle {
+  margin-top: 0;
+  color: #aaa;
+}
+
+canvas {
+  height: 400px;
+  width:  400px;
+  background-color: #eee;
+}
